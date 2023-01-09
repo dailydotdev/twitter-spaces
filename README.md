@@ -12,7 +12,7 @@ We cover interesting topics for developers and the tech world.
 
 <br>
 
-To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). All completely free.
+To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). It's all completely free.
 
 <br>
 
