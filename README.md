@@ -1,18 +1,12 @@
-# daily.dev Twitter Spaces
+# 🎙️ daily.dev Twitter Spaces
 
-<b>Welcome to the daily.dev Twitter Spaces!</b>
+<img src="https://user-images.githubusercontent.com/88102392/217631273-66fe83af-fcff-49bc-9f95-2ec9eeda533e.png" width="850">
 
-<br>
+- This is a comprehensive list of all the spaces organized to date, offering a detailed and insightful look into a variety of engaging topics for developers and the tech industry. 
+- The speakers in these events are highly knowledgeable and experienced, making for a truly amazing learning experience for attendees. 
+- From current trends and cutting-edge technologies to emerging trends and best practices, these spaces provide a platform for individuals to stay informed and up-to-date in the fast-paced world of technology.
 
-Here is a list of all the spaces organized so far, all organized in detail and with amazing speakers. 
-
-<br>
-
-We cover interesting topics for developers and the tech world. 
-
-<br>
-
-To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). It's all completely free.
+### 🔔 To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). It's all completely free.
 
 
 <br>
