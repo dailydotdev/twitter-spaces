@@ -1,6 +1,3 @@
-
-
-
 # daily.dev Twitter Spaces
 
 <b>Welcome to the daily.dev Twitter Spaces!</b>
@@ -28,8 +25,9 @@ To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). 
 |4| <a href="https://twitter.com/i/spaces/1OwGWwDdyyDGQ"><img src="https://user-images.githubusercontent.com/18360871/210705643-42faf6d0-14bc-4b30-b6c5-645194999146.jpg" width="200"></a>| [Technical writing for developers](https://twitter.com/i/spaces/1OwGWwDdyyDGQ) | December 14, 2022 |
 |5| <a href="https://twitter.com/i/spaces/1lPKqBlmRoAGb"><img src="https://user-images.githubusercontent.com/18360871/210706112-efa65ca6-74b3-4aad-b8cf-c0ae2136619c.jpg" width="200"></a>| [Challenge: 100 days of reading an article!](https://twitter.com/i/spaces/1lPKqBlmRoAGb) | January 4, 2023 |
 |6| <a href="https://twitter.com/i/spaces/1rmxPkDWwodJN"><img src="https://user-images.githubusercontent.com/18360871/210706272-05e1947d-9b0a-428a-b683-410fecc8db9f.jpg" width="200"></a>| [Generative AI: The next evolution of Artificial Intelligence](https://twitter.com/i/spaces/1rmxPkDWwodJN) | January 11, 2023 |
-|7| <a href="https://twitter.com/i/spaces/1YqGoAakkEjxv"><img src="https://user-images.githubusercontent.com/18360871/217618933-686ceba4-f535-48f7-9b43-7538621e04e7.png" width="200"></a>| [ChatGPT for developers](https://twitter.com/i/spaces/1YqGoAakkEjxv) | March 8th, 2023 |
-|8| <a href="https://twitter.com/i/spaces/1nAJErQwLQAxL"><img src="https://user-images.githubusercontent.com/18360871/233334247-284dc7ea-f695-4834-bfc1-7052b6be9acf.png" width="200"></a>| [How does the Twitter algorithm work?](https://twitter.com/i/spaces/1nAJErQwLQAxL) | April 20th, 2023 |
+|7| <a href="https://twitter.com/i/spaces/1PlKQpkERyWxE"><img src="https://user-images.githubusercontent.com/18360871/217618933-686ceba4-f535-48f7-9b43-7538621e04e7.png" width="200"></a>| [ChatGPT for developers](https://twitter.com/i/spaces/1PlKQpkERyWxE) | Feb 8th, 2023 |
+|8| <a href="https://twitter.com/i/spaces/1YqGoAakkEjxv"><img src="https://user-images.githubusercontent.com/18360871/233336748-f507e9f5-fee2-47e6-8aec-7b75131da880.png" width="200"></a>| [Dev education: AI's role in content generation](https://twitter.com/i/spaces/1YqGoAakkEjxv) | March 30th, 2023 |
+|9| <a href="https://twitter.com/i/spaces/1nAJErQwLQAxL"><img src="https://user-images.githubusercontent.com/18360871/233334247-284dc7ea-f695-4834-bfc1-7052b6be9acf.png" width="200"></a>| [How does the Twitter algorithm work?](https://twitter.com/i/spaces/1nAJErQwLQAxL) | April 20th, 2023 |
 
 
 
