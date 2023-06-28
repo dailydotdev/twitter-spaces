@@ -14,7 +14,6 @@ We cover interesting topics for developers and the tech world.
 
 To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). It's all completely free.
 
-
 <br>
 
 |#| Image | Title and Link | Date |
@@ -28,6 +27,9 @@ To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). 
 |7| <a href="https://twitter.com/i/spaces/1PlKQpkERyWxE"><img src="https://user-images.githubusercontent.com/18360871/217618933-686ceba4-f535-48f7-9b43-7538621e04e7.png" width="200"></a>| [ChatGPT for developers](https://twitter.com/i/spaces/1PlKQpkERyWxE) | Feb 8th, 2023 |
 |8| <a href="https://twitter.com/i/spaces/1YqGoAakkEjxv"><img src="https://user-images.githubusercontent.com/18360871/233336748-f507e9f5-fee2-47e6-8aec-7b75131da880.png" width="200"></a>| [Dev education: AI's role in content generation](https://twitter.com/i/spaces/1YqGoAakkEjxv) | March 30th, 2023 |
 |9| <a href="https://twitter.com/i/spaces/1nAJErQwLQAxL"><img src="https://user-images.githubusercontent.com/18360871/233334247-284dc7ea-f695-4834-bfc1-7052b6be9acf.png" width="200"></a>| [How does the Twitter algorithm work?](https://twitter.com/i/spaces/1nAJErQwLQAxL) | April 20th, 2023 |
+|10| <a href="https://twitter.com/i/spaces/1MnxnpvyrzdGO"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/6795fd4a-b9d7-40c3-b100-6787a176c284" width="200"></a>| [AI tools for developers](https://twitter.com/i/spaces/1MnxnpvyrzdGO) | May 18th, 2023 |
+|11| <a href="https://twitter.com/i/spaces/1ZkJzXeELNoKv"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/11dbdab4-dc19-4378-92c3-d65b62fc6efc" width="200"></a>| [Developer communities](https://twitter.com/i/spaces/1ZkJzXeELNoKv) | June 27th, 2023 |
+
 
 
 
