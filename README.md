@@ -31,7 +31,7 @@ To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). 
 |11| <a href="https://twitter.com/i/spaces/1ZkJzXeELNoKv"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/11dbdab4-dc19-4378-92c3-d65b62fc6efc" width="200"></a>| [Developer communities](https://twitter.com/i/spaces/1ZkJzXeELNoKv) | June 27th, 2023 |
 |12| <a href="https://twitter.com/i/spaces/1ypJdddXaQyJW"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/df2de31f-c749-4ec2-9e0e-c161c24d5b3d" width="200"></a>| [Developers and social media](https://twitter.com/i/spaces/1ypJdddXaQyJW) | July 20th, 2023 |
 |13| <a href="https://twitter.com/i/spaces/1vAGRAOeqnqKl"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/f4f23337-164f-4311-99b8-53be9c108fe3" width="200"></a>| [Open Source education for devs](https://twitter.com/i/spaces/1vAGRAOeqnqKl) | August 23th, 2023 |
-
+|14| <a href="https://x.com/i/spaces/1PlJQpMbRNXGE"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/74aed960-1b60-4824-82c0-1672399c4131" width="200"></a>| [DevOps tools for developers](https://x.com/i/spaces/1PlJQpMbRNXGE) | September 13th, 2023 |
 
 
 
