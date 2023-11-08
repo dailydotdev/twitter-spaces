@@ -1,5 +1,8 @@
 # daily.dev Twitter Spaces
 
+![image](https://github.com/dailydotdev/twitter-spaces/assets/18360871/7acd4f1f-0402-4088-9cd3-2d46f34dadd4)
+
+
 <b>Welcome to the daily.dev Twitter Spaces!</b>
 
 <br>
@@ -34,6 +37,7 @@ To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). 
 |13| <a href="https://twitter.com/i/spaces/1vAGRAOeqnqKl"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/f4f23337-164f-4311-99b8-53be9c108fe3" width="200"></a>| [Open Source education for devs](https://twitter.com/i/spaces/1vAGRAOeqnqKl) | August 23th, 2023 |
 |14| <a href="https://x.com/i/spaces/1PlJQpMbRNXGE"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/74aed960-1b60-4824-82c0-1672399c4131" width="200"></a>| [DevOps tools for developers](https://x.com/i/spaces/1PlJQpMbRNXGE) | September 13th, 2023 |
 |15| <a href="https://twitter.com/i/spaces/1yoKMwvEnmdJQ"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/6250a377-7dc2-49db-b489-684560b82015" width="200"></a>| [Hacktoberfest & Open Source!](https://twitter.com/i/spaces/1yoKMwvEnmdJQ) | October 11th, 2023 |
+|16| <a href="https://twitter.com/i/spaces/1eaKbgEwRNoGX"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/7acd4f1f-0402-4088-9cd3-2d46f34dadd4" width="200"></a>| [Evolution of Web Development](https://twitter.com/i/spaces/1eaKbgEwRNoGX) | November 8th, 2023 |
 
 
 
