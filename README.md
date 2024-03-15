@@ -1,14 +1,10 @@
 # daily.dev Twitter Spaces
 
-
-
-
 <b>Welcome to the daily.dev Twitter Spaces!</b>
 
 <br>
 
 Here is a list of all the spaces organized so far, all organized in detail and with amazing speakers. 
-
 
 <br>
 
@@ -16,7 +12,7 @@ We cover interesting topics for developers and the tech world.
 
 <br>
 
-To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). It's all completely free.
+To avoid missing them, just follow us on [Twitter](https://twitter.com/dailydotdev). It's all completely free.
 
 <br>
 
@@ -41,3 +37,4 @@ To not miss them, just follow us on [Twitter](https://twitter.com/dailydotdev). 
 |17| <a href="https://twitter.com/i/spaces/1yNGaZDDjeVJj"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/75fa9227-9bbf-420f-b831-28cc69321bc3" width="200"></a>| [Evolution of Web Development](https://twitter.com/i/spaces/1yNGaZDDjeVJj) | December 6th, 2023 |
 |18| <a href="GaZDDjeVJj](https://twitter.com/i/spaces/1djGXNDbyQExZ?s=20)"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/6bf4e25d-b675-4fce-b532-de1127406ac1" width="200"></a>| [Dev communities in 2024](https://twitter.com/i/spaces/1djGXNDbyQExZ?s=20) | January 24th, 2024 |
 |19| <a href="GaZDDjeVJj](https://twitter.com/i/spaces/1lPKqbAaroEGb)"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/0cf39cba-71b5-4285-857a-ff4c4ac12313" width="200"></a>| [How to get a job in tech](https://twitter.com/i/spaces/1djGXNDbyQExZ?s=20) | February 28th, 2024 |
+|20| <a href="GaZDDjeVJj](https://twitter.com/i/spaces/1yoKMwDOvaoJQ)"><img src="https://github.com/dailydotdev/twitter-spaces/assets/18360871/b1c8a95b-2273-413e-a07f-203d13c9d99b" width="200"></a>| [What's the best programming language?](https://twitter.com/i/spaces/1yoKMwDOvaoJQ?s=20) | March 14th, 2024 |
